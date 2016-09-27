@@ -1,0 +1,47 @@
+commit abe23a5fd2375158b082264a6c4195a323639128
+Author: Casey DeRosa <cderosa@mymail.mines.edu>
+Date:   Tue Sep 27 15:03:24 2016 -0600
+
+     Made a new message and head normal
+
+commit 66268d5b7fc3e30dbbef33f6c35f2775f679b07d
+Author: Truyen Van <tvan@mymail.mines.edu>
+Date:   Tue Sep 27 15:00:53 2016 -0600
+
+    Made head, eyes, and mouth smaller, made mouth pink
+
+commit 3cfe0b749298c7d52d14d49b7c3794c3e15276fd
+Author: Casey DeRosa <cderosa@mymail.mines.edu>
+Date:   Tue Sep 27 14:59:21 2016 -0600
+
+     Gave really big head and red eyes
+
+commit f0325394812dc7e94474efbfdc4a41ef67b28227
+Author: Truyen Van <tvan@mymail.mines.edu>
+Date:   Tue Sep 27 14:57:55 2016 -0600
+
+    Made eyes and mouth bigger, made cat head yellow
+
+commit ebe9472e0e69c277149b68c749c2127726f4eaba
+Author: Casey DeRosa <cderosa@mymail.mines.edu>
+Date:   Tue Sep 27 14:56:13 2016 -0600
+
+     Made cat head bigger
+
+commit c6ea54e30dc7fe0e8bc963dd57c034db5e2d1d16
+Author: Truyen Van <tvan@mymail.mines.edu>
+Date:   Tue Sep 27 14:52:10 2016 -0600
+
+    Changed colors of the cat
+
+commit 2cf27575ea75f0b0a070eace715a24576f8151b8
+Author: Casey DeRosa <cderosa@mymail.mines.edu>
+Date:   Tue Sep 27 14:40:32 2016 -0600
+
+    Initial Commit for DrawPlay
+
+commit aa5b61ed8ce8e4a2237feaa15b436a76832f1b29
+Author: caseyderosa <cderosa@mymail.mines.edu>
+Date:   Tue Sep 27 14:22:32 2016 -0600
+
+    Initial commit
